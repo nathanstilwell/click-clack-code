@@ -4,4 +4,4 @@
 
 This is the talk I proposed to give at [Brooklyn.js](https://github.com/brooklynjs/brooklynjs.github.io/pull/217). If all goes well, I will give this talk on December 17th at [Brooklyn.js 0.3.2](https://ti.to/BrooklynJS/brooklynjs-0-3-2).
 
-I'm generating the presentation from Markup using [Cleaver](https://github.com/jdan/cleaver)
+I'm generating the presentation from Markup using [DeckSet](http://www.decksetapp.com/), so it's probably going to look weird when viewed in your standard markdown whatsis.
