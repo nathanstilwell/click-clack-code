@@ -19,7 +19,7 @@
 
 ---
 
-![left](images/my-wrist.jpg)
+![left filtered](images/my-wrist.jpg)
 
 # [fit] This is my
 # [fit] right wrist
@@ -29,7 +29,7 @@ The broken part is my
 
 ---
 
-![right](images/good-scaphoid.png)
+![right filtered](images/good-scaphoid.png)
 
 # [fit] This is a
 # [fit] good
@@ -138,10 +138,6 @@ bind x:cmd,alt,ctrl focus ${xcode}
 ```
 
 ---
-
-But I still don't need `NKRO`
-
---- 
 
 Then I switched from Cherry Browns to Cherry Reds
 
