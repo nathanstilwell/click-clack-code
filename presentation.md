@@ -2,310 +2,307 @@
 
 ---
 
-# [fit] Hi,
-*I'm Nathan Stilwell*
+# [fit] I :heart: my keyboard
 
-![left](images/its_nathan.png)
-
----
-
-# [fit] I really
-# [fit] :heart: my keyboard
+^ Hi everybody. Tonight I'd like to talk about my keyboard
 
 ---
 
 ![](images/kinesis-advantage.jpg)
 # This is our story
 
----
-
-![left filtered](images/my-wrist.jpg)
-
-# [fit] This is my
-# [fit] right wrist
-
-The broken part is my
-*Scaphoid*
+^ and tell you our story. :)
 
 ---
 
-![right filtered](images/good-scaphoid.png)
-
-# [fit] This is a
-# [fit] good
-# [fit] Scaphoid
-
----
-
-![left](images/my-wrist.jpg)
-![right](images/good-scaphoid.png)
-
----
-
-![](images/first-day-at-gilt.jpg)
-# [fit] My first day at Gilt
-Notice the keyboard
-
----
-
-![](images/first-day-at-gilt.jpg)
-
----
-
-![](images/first-day-at-gilt.jpg)
-# I had been typing for
+# been typing for
 # [fit] 20 years
-# at this point
+
+^ - When I started at Gilt in 2011 ...
+
+^ - typing for about 20 years
 
 ---
 
-![inline](images/gilt-logo.png)
+# at age 33, my wrist started hurting
 
-had a lot of Kinesis fans. Here are a few.
-
-![inline](images/eric-shepherd.png) ![inline](images/mark-wunsch.jpg) ![inline](images/mike-bryzek-alt.jpg) ![inline](images/mike-waldner.png)
+^ about a year later my wrist started hurting
 
 ---
 
-# Eventually,
-# wrist pain
+# [fit] Hazards of the trade
+### Repetitive Strain Injury
+### vs
+### Carpal Tunnel Syndrome
+
+^ - If, like me, you type for a living
+
+^ - our trade isn't without hazards.
+
+^ - common career-ending injuries amoungst programmers are RSI and Carpal Tunnel
+
+---
+![](images/jim-carrey-typing.gif)
+# RSI
+### you do something over and over until it hurts
+
+^ - You get RSI from performing a single action repeatedly. Like pushing buttons.
+
+^ - The best defense is taking breaks, stretching and excercise. 
+
+^ - PSA to Emacs users, in preparing for this talk I found a strong correlation between Emacs and RSI (google it Bryan)
 
 ---
 
-# Wrist Health
-## RSI
-*R*epetitive *S*train *I*njury
-
-*you do something over and over until it hurts*
-
----
-
-![](images/carpal-tunnel.jpg)
+![fit](images/carpal-tunnel-edit.jpg)
 
 # Carpal Tunnel
-burning out your flexor tendons
+
+^ Carpel Tunnel happens because of strain to the tendons in your wrists.
 
 ---
 
 ![left](images/bad-wrist.jpg)
 ![right](images/good-wrist.jpg)
 
---- 
-
-![](images/jim-carrey-typing.gif)
-# Remember, you type for a living
+^ amongst typist this happens when you type with bent wrists
 
 --- 
 
-# Key mapping
+![](images/not-a-doctor.gif)
+# [fit] Not a doctor
 
-`caps lock` -> `control`
-`del` -> `esc`
-
----
-
-# Key layout
-
-Some people on the Internet have reported less pain when using Dvorak. 
-
-![inline](images/dvorak.png)
-
-Other popular options are Colemak and Workman
+^ Just a note, I'm not a doctor. So while it's good to be aware of these things, if you're in pain, please seek medical attention
 
 ---
 
-# Keyboard Shortcuts
-## I dig 'em
+![](images/my-kinesis-left.jpg)
 
-from my Slate config
+# So I tried a kinesis
 
-```
-#move in monitor
-bind up:cmd,ctrl,shift ${full}
-bind left:cmd,ctrl ${lefthalf}
-bind right:cmd,ctrl ${righthalf}
+^ Being at Gilt
 
-# Window Hints
-bind e:cmd,alt hint hjklyuiopnm
+^ immersed in Kinesis culture
 
-# Apps
-bind t:cmd,alt,ctrl focus ${terminal}
-bind e:cmd,alt,ctrl focus ${editor}
-bind s:cmd,alt,ctrl focus ${spotify}
-bind b:cmd,alt,ctrl focus ${devbrowser}
-bind l:cmd,alt,ctrl focus ${slack}
-bind x:cmd,alt,ctrl focus ${xcode}
-```
+^ gave it a try
 
 ---
 
-Then I switched from Cherry Browns to Cherry Reds
+# it looks like this
+
+![fit](images/my-kinesis.jpg)
+
+^ which looks intimidating, and I won't lie, there is an adjustment period
 
 ---
 
-^ I wanted to change my "delete" key to an "escape" key
+![](images/struggle.gif)
+# The struggle was real
 
-- Keycaps
-- Types
-- Fun!
+^ - Between the concave key "pits", the distance of the split, and the thumb keys it took some getting used to.
 
----
-
-^ The joy of investing in my keyboard
+^ - 3 days to get back to 80%, 3 months to get to 100%
 
 ---
 
-^ Go and find your own keyboard
+# Instant Advantages
+
+* Key remapping
+* Thumb Keys
+* Satisfying click
+* My wrist stopped hurting
+
+^ but once I got over the initial shock there were some "kinesis advantages". 
+
+--- 
+
+# Key remapping
+
+![inline fit](images/key-remapping.png)
+
+^ - The Kinesis has the ability to change layout or remap individual keys
+
+^ - being a vim user, I made some adjustments up front that 
+I've stuck with for the past 3 years.
+
+^ - Caps Lock -> Ctrl, Del -> ESC, and I switched the arrows -> j and k
 
 ---
 
-# [fit] I'm
-# [fit] Nathan Stilwell
+# Thumb Keys
 
-*available on the Internet*
+![inline](images/thumb-keys-left.jpg)![inline](images/thumb-keys-right.jpg)
 
-- nathanstilwell.com
-- @nathanstilwell
-- https://www.google.com/#q=nathan+stilwell
+^ - perhaps the biggest adjustment
 
----
+^ - quickly appearant how under-utilized my thumbs had been
 
-# [fit] STOP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Do you put stickers on your laptop?
-
-Probably because you're **invested in your gear**.
+^ - Keyboard shortcuts got a lot more comfortable
 
 ---
 
-# [fit] So let's talk
-# [fit] about your
-# [fit] keyboard
+![](images/heee.gif)
+# I was hooked
+
+^ - Once the Kinesis started to feel "natural" I was hooked.
+
+^ - Typing was comfortable and actually more fun.
 
 ---
 
-# What's a keyboard?
+![](images/typing-machine.gif)
 
-> device which uses an arrangement of buttons or keys to act as mechanical levers or electronic switches.
-
-*facinating, thanks Wikipedia*
-
----
-
-# Also worth noting
-
-> Following the decline of punch cards and paper tape, interaction via teleprinter-style keyboards became the main input device for computers
-
-So this talk is **pretty relavant**
-
----
-
-# [fit] So what should you think about
-# [fit] in your keyboard technology?
-
----
-
-# How does it feel?
-
-- key response (feed back that the key has been pressed)
-- travel (the distance needed to press a key)
-- actuation force (the force required to activate the key)
-
----
-
-# Does it help me do my job?
-- KRO (*Key Roll Over*, how many keys can you press at once?)\*
-- Ergonomic benefit (is it good for my hands and wrists?)
-- Programability (can re-map keys? do I get macros?)
-- Layout (Qwerty, Dvorak, Colemak, Workman)
-
----
-
-# How much fun am I having?
-- Backlighting
-- Key Caps
-- How does it sound?
-- does it look awesome?
-
-You should *enjoy* your tools.
-
----
-
-# Keyboards get broken up into categories by thier switches
-
-Today we're going to focus on the *mechanical* kind (it's my favorite)
-
----
-
-## What's a mechanical keyboard?
-
-> Mechanical-switch keyboards use separate complete switches underneath every key.
+### The Kinesis is a 
+# "mechanical keyboard"
+ 
+^ - Once we became besties, I wanted to learn more about my new friend.
+^ - The kinesis is a mechanical keyboard. That means there is a separate complete switches underneath every key.
 
 ---
 
 # Cherry
 
-> Cherry is the maker for (*probably*) the most popular key switch out there, the Cherry MX. They are made in Germany.
+Cherry MX. They are made in Germany.
 
-![inline fill](images/cherry-brown.gif)![inline fill](images/cherry-red.gif)![inline fill](images/cherry-white.gif)![inline fill](images/cherry-blue.gif)![inline fill](images/cherry-black.gif)
+![inline fill](images/cherry-brown.gif)![inline fill](images/cherry-red.gif)![inline fill](images/cherry-blue.gif)
 
+^ The most popular switch manufactuer is Cherry from Germany. Their most popular product is the Cherry MX key switch
+ 
 ---
 
-## Cherry MX "flavors"
-### Tactile switches
+## I started with tactile switches
 
 ![left](images/cherry-brown.gif)
 
-Cherry Tactile switches give you a tactile bump on activation, the most popular are the Cherry "Browns".
+Give you a tactile bump on activation
 
-They have three tactile switches that activate at different pressures.
-
-- Brown (50g)
-- Clear (70g)
-- Light Gray (80g)
+^ My first Kinesis had Cherry browns. They give you a little "bump" when the key is activated
 
 ---
 
-## Cherry MX "flavors"
-### Linear switches
+## Then I switched to linear switches
 
 ![left](images/cherry-red.gif)
 
-Cherry Linear switches have a consistent force through out the key press. Popular among gamers because they are "fast".
+Cherry Linear switches have a consistent force through out the key press.
 
-Again, three flavors
+^ - After some experimentation I landed on the linear cherry reds
 
-- Red (45g)
-- Black (60g)
-- Dark Gray (80g)
+^ - They take less force to activate, but don't give any feedback.
+
+^ - somewhat controversial amongst enthusiests since the "bump" keeps you from bottoming out
 
 ---
 
-## Cherry MX "flavors"
-### Clicky switches
+## Clicky switches
 
 ![left](images/cherry-blue.gif)
 
-Cherry tactile "click" switches give tactile feed back with a satisfying click on activation. These tend to be some of the loudest of the Cherry switches.
+These tend to be some of the loudest of the Cherry switches.
 
-Here's three more
+^ - Which is why Cherry introduced their "clicky" switches
 
-- Blue (55g)
-- Green (80g)
-- White (85g)
+^ - more "bump" 
+
+^ - louder, so everyone can tell how productive you are
 
 ---
 
+![](images/keycaps-random.jpg)
+# Just the beginning
+
+^ this was only the beginning of my journey
+
+---
+
+![fit](images/laptop-stickers.jpg)
+
+^ just like laptop stickers
+
+---
+
+![fit](images/custom-terminal.png)
+
+^ or a custom terminal prompt
+
+---
+
+![](images/custom-keycap-search.png)
+
+^ you can trick out your keyboard
+
+---
+
+![fit](images/christmas-keycaps.jpg)
+
+^ with keycaps
+
+---
+
+![](images/backlit-keyswitch.jpg)
+
+^ backlit keyswitches
+
+---
+
+![](images/ergonomics.jpg)
+
+^ ergonomic layouts
+
+---
+
+# Learn More
+
+* geekhack.org/
+* deskthority.net/
+* reddit.com/r/mechanicalkeyboards
+* keychatter.com/
+
+^ Here are some places I've found good information
+
+---
+
+# Go Shopping
+
+* massdrop.com/mechanical-keyboards
+* mechanicalkeyboards.com/shop/
+* wasdkeyboards.com
+* amazon.com or whatever
+
+^ - There aren't a lot of places in New York to find this stuff
+
+^ Here are some places that have the most popular keyboards available
+
+---
+
+# I love my keyboard.
+
+^ To sum up, I love my keyboard
+
+---
+
+# you should love you keyboard too.
+
+^ and I think you should love your keyboard too. You use it everyday and probably will for years to come
+
+---
+ 
+# We have samples
+ 
+^ I have my keyboard with me and our man Hayden has brought some key switch samples, so if you want to try some stuff out. Come and see us during Beverage time.js
+
+---
+ 
+![left](images/its_nathan.png)
+
+# [fit] I'm on the Internet
+
+- nathanstilwell.com
+- @nathanstilwell
+- www.google.com/#q=nathan+stilwell
+
+^ Thanks for listening. You can find me on the Internet
+
+---
+
+# [fit] 谢谢
